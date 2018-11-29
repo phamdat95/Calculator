@@ -1,0 +1,30 @@
+.d1{
+    position: absolute;
+    border: 1px solid black;
+    padding: 10px 10px;
+
+}
+.lb1{
+    width: 150px;
+    float: left;
+}
+.d2{
+    left: 10px;
+    position: absolute;
+    background: white;
+    top: -10px;
+}
+.d3{
+    width: 120px;
+    padding-left: 10px;
+}
+.d5{
+    margin: 5px;
+}
+.aa{
+    font-size: 10px;
+}
+.bb{
+    position: relative;
+    left: 158px;
+}
